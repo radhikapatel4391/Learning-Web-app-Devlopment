@@ -1,0 +1,16 @@
+min_express: simple express servers
+server0.js: use express's built-in static server, on port 3000
+for all files in current directory.
+Works for Comments app fine, since it only needs an ordinary web server
+to get its resources.
+
+index.html, style.css, app.js: Comments app
+To run: node server0.js
+Browse to localhost:3000
+
+server.js: use express to handle each request individually, and
+handle "" as index.html.  Need to read file from filesys, either
+with fs method or http's res.sendFile(path).
+
+To run: node server.js
+Browse to localhost:3000

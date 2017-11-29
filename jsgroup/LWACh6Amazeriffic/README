@@ -1,0 +1,29 @@
+Amazeriffic of Chap. 6
+
+The code in Chap. 6 is for express v3, whereas we are using express v4, i.e.
+the current express.
+
+This directory has the express v4 code to replace code shown on pp 206-207.
+Specifically:
+client, Pg. 206: we can't use the "shorthand" $.post(...), because it has no way to
+set the Content-type header on the POST request, and the server needs
+to see Content-type:application/json on the incoming request to know how
+to process it using middleware.  Instead the $.ajax full method is
+used, which allows spec. of headers.
+
+You might ask: why can't we just process the incoming data once received in the server?
+But according to the API, req.body is empty until middleware parses the incoming
+request and fills it in. So middleware is the appointed way to decode incoming
+data. Here we need to convert incoming JSON to a Javascript object.
+
+Express v4 has a built-in middleware express.json() to convert incoming JSON
+(i.e. a request with Content-type:application/json) to a Javascript object.
+So we need app.use(express.json());  instead of app.use(express.urlencoded());.
+
+We would use app.use(express.urlencoded()); for processing form data, which
+is "urlencoded".  We can have both of these working for us in the same program
+since they do their work based on the Content-type of the incoming request.
+
+server, pg. 207:
+We need to use app.use(express.json());
+

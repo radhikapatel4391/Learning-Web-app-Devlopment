@@ -1,0 +1,14 @@
+{
+  "name": "amaz",
+  "version": "1.0.0",
+  "description": "Amazerific",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Betty O'Neil",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}

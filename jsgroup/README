@@ -1,0 +1,14 @@
+Examples related to Learning Web App Dev (LWA) by S.Purewal
+
+pre-nodejs:
+Example2: from Chap. 4, the Comments app
+LWACh4Amazeriffic: from Chap. 4 
+
+nodejs:
+min_node: examples without express
+min_express0: super-simple examples with express
+min_express: simple examples with express
+
+See READMEs in the directories for more info.
+Note that you need to install dependencies for these to work--
+I've deleted the node_modules dirs to save space in the zip

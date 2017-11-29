@@ -1,0 +1,21 @@
+Minimal examples using nodejs directly, no use of express
+Assumes nodejs has been installed already
+
+hello.js  just use console.log to print hello
+
+sa_program.js: standalone program (no browser) using node fs calls
+--needs "npm install fs" to support fs package
+   node sa_program.js  copies index.html to index.copy
+
+server.js: server.js using only node's http, url and js packages
+--needs "npm install xx" for fs, url, http packages, unless this
+has already been done for other projects (npm caches packages
+for the user, in Windows under \Users\user\AppData\Roaming\npm-cache)
+See https://medium.freecodecamp.org/requiring-modules-in-node-js-everything-you-need-to-know-e7fbd119be8
+for info on how require works 
+
+index.html, app.js, style.css: Comments app from Chap 4 (Example2)
+To run Comments app using this server:
+node server.js
+browse to localhost:9615
+

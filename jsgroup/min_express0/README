@@ -1,0 +1,11 @@
+Minimal examples using express for server
+needs
+-- npm install express
+-- npm init  for package.json
+-- npm install to make sure packages in package.json are available
+
+index.js: minimal express server, just sends "Hello" to /
+To run:
+node index.js
+Browse to localhost:3000
+See "Hello" in browser.

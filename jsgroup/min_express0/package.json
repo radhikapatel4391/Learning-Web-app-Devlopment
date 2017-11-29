@@ -1,0 +1,14 @@
+{
+  "name": "min_express",
+  "version": "1.0.0",
+  "description": "min express app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Betty O'Neil",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
