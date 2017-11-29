@@ -1,7 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aac84da0-906f-47ef-ab52-fd8f836ba697" name="Default" comment="" />
+    <list default="true" id="aac84da0-906f-47ef-ab52-fd8f836ba697" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/connect/lib/public/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/connect/lib/public/icons/page.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/connect/lib/public/icons/page_add.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/connect/lib/public/icons/page_attach.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/connect/lib/public/icons/page_code.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/connect/lib/public/icons/page_copy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/connect/lib/public/icons/page_delete.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/connect/lib/public/icons/page_edit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/connect/lib/public/icons/page_error.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/connect/lib/public/icons/page_excel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/connect/lib/public/icons/page_find.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/connect/lib/public/icons/page_gear.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/connect/lib/public/icons/page_go.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/connect/lib/public/icons/page_green.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/connect/lib/public/icons/page_key.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/connect/lib/public/icons/page_lightning.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/connect/lib/public/icons/page_link.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/Ch5Amazeriffic/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/Ch5Amazeriffic/javascripts/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/Ch5Amazeriffic/stylesheets/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/Ch5Amazeriffic/todos.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/client/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/client/javascripts/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/.bin/express" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/bin/express" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/lib/application.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/lib/express.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/lib/middleware.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/lib/request.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/lib/response.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/lib/router/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/lib/router/route.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/lib/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/lib/view.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/buffer-crc32/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/buffer-crc32/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/buffer-crc32/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/buffer-crc32/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/buffer-crc32/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/buffer-crc32/tests/crc.test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/commander/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/commander/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/commander/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/commander/node_modules/keypress/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/commander/node_modules/keypress/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/commander/node_modules/keypress/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/commander/node_modules/keypress/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/commander/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/connect/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/connect/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/connect/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/connect/lib/cache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/connect/lib/connect.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/connect/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/connect/lib/middleware/basicAuth.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/connect/lib/middleware/bodyParser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/connect/lib/middleware/compress.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/connect/lib/middleware/cookieParser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/connect/lib/middleware/cookieSession.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/connect/lib/middleware/csrf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/connect/lib/middleware/directory.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/connect/lib/middleware/errorHandler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/connect/lib/middleware/favicon.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/connect/lib/middleware/json.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/connect/lib/middleware/limit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/connect/lib/middleware/logger.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/connect/lib/middleware/methodOverride.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/connect/lib/middleware/multipart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/connect/lib/middleware/query.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/connect/lib/middleware/responseTime.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/connect/lib/middleware/session.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/connect/lib/middleware/session/cookie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/connect/lib/middleware/session/memory.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/connect/lib/middleware/session/session.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/connect/lib/middleware/session/store.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/connect/lib/middleware/static.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/connect/lib/middleware/staticCache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/connect/lib/middleware/timeout.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/connect/lib/middleware/urlencoded.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/connect/lib/middleware/vhost.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/connect/lib/patch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/connect/lib/proto.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/connect/lib/public/directory.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/express/node_modules/connect/lib/public/error.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -15,61 +108,101 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jsgroup/Example2/app.js">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jsgroup/LWACh6Amazeriffic/client/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="-1132">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jsgroup/LWACh5Cards/javascripts/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/jsgroup/ImageFromFlicker/javascripts/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="19" column="28" lean-forward="false" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jsgroup/README">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jsgroup/ImageFromFlicker/stylesheets/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" column="1" lean-forward="false" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jsgroup/ImageFromFlicker/index.html">
+        <entry file="file://$PROJECT_DIR$/jsgroup/Example2/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="20" column="7" lean-forward="false" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jsgroup/LWACh6Amazeriffic/server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-976">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jsgroup/TwitterCounts/server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tweet_counter.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jsgroup/TwitterCounts/tweet_counter.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jsgroup/TwitterCounts/client/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jsgroup/TwitterCounts/client/javascripts/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="express" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/.bin/express">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="credentials.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/jsgroup/TwitterCounts/credentials.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jsgroup/LWACh6Amazeriffic/client/javascripts/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2404">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -80,11 +213,23 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="CSS File" />
         <option value="HTML File" />
+        <option value="tsconfig.json" />
+        <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>awesome</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>modi</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -92,6 +237,12 @@
         <option value="$PROJECT_DIR$/jsgroup/ImageFromFlicker/index.html" />
         <option value="$PROJECT_DIR$/jsgroup/ImageFromFlicker/stylesheets/style.css" />
         <option value="$PROJECT_DIR$/jsgroup/ImageFromFlicker/javascripts/app.js" />
+        <option value="$PROJECT_DIR$/jsgroup/Ch5Amazeriffic/javascripts/app.js" />
+        <option value="$PROJECT_DIR$/jsgroup/Ch5Amazeriffic/stylesheets/style.css" />
+        <option value="$PROJECT_DIR$/jsgroup/Ch5Amazeriffic/index.html" />
+        <option value="$PROJECT_DIR$/jsgroup/Ch5Amazeriffic/tsconfig.json" />
+        <option value="$PROJECT_DIR$/jsgroup/TwitterCounts/server.js" />
+        <option value="$PROJECT_DIR$/jsgroup/TwitterCounts/tweet_counter.js" />
       </list>
     </option>
   </component>
@@ -101,11 +252,17 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules" />
+  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-9" />
     <option name="y" value="-9" />
     <option name="width" value="1938" />
     <option name="height" value="1048" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -133,6 +290,16 @@
               <option name="myItemId" value="JS" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="jsgroup" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
@@ -152,7 +319,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="LWACh5Cards" />
+              <option name="myItemId" value="TwitterCounts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -170,7 +337,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="LWACh4Amazeriffic" />
+              <option name="myItemId" value="TwitterCounts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -188,7 +359,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ImageFromFlicker" />
+              <option name="myItemId" value="LWACh6Amazeriffic" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -206,51 +377,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ImageFromFlicker" />
+              <option name="myItemId" value="LWACh6Amazeriffic" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="stylesheets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jsgroup" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ImageFromFlicker" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javascripts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jsgroup" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Example2" />
+              <option name="myItemId" value="client" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -266,8 +397,12 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Data\Study\Radhika\UMB\JS\jsgroup\TwitterCounts" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Data\Study\Radhika\UMB\JS\jsgroup" />
     </key>
@@ -284,7 +419,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Node.js.server.js (1)">
+    <configuration default="false" name="server.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="server.js" working-dir="$PROJECT_DIR$/jsgroup/LWACh6Amazeriffic">
+      <method />
+    </configuration>
+    <configuration default="false" name="server.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="server.js" working-dir="$PROJECT_DIR$/jsgroup/TwitterCounts">
+      <method />
+    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
@@ -345,6 +486,16 @@
       <recursive>false</recursive>
       <method />
     </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.server.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.server.js (1)" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.server.js (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.server.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -356,22 +507,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1511972242839</updated>
-      <workItem from="1511972244439" duration="579000" />
+      <workItem from="1511972244439" duration="4688000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="579000" />
+    <option name="totallyTimeSpent" value="4688000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24960506" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32964602" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -440,6 +590,134 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="19" column="28" lean-forward="false" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsgroup/LWACh4Amazeriffic/javascripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1896">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsgroup/LWACh4Amazeriffic/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsgroup/Ch5Amazeriffic/stylesheets/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="804">
+          <caret line="156" column="1" lean-forward="false" selection-start-line="156" selection-start-column="1" selection-end-line="156" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsgroup/Ch5Amazeriffic/todos.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="25" column="1" lean-forward="false" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsgroup/Ch5Amazeriffic/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsgroup/Ch5Amazeriffic/javascripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="114" column="3" lean-forward="false" selection-start-line="114" selection-start-column="3" selection-end-line="114" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsgroup/Example2/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsgroup/LWACh6Amazeriffic/client/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1132">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsgroup/LWACh6Amazeriffic/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-976">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsgroup/LWACh6Amazeriffic/client/javascripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2404">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsgroup/TwitterCounts/client/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsgroup/TwitterCounts/client/javascripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsgroup/TwitterCounts/node_modules/.bin/express">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsgroup/TwitterCounts/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsgroup/TwitterCounts/tweet_counter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsgroup/TwitterCounts/credentials.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
