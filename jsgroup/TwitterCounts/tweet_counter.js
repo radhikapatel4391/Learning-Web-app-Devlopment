@@ -1,29 +1,43 @@
-var ntwitter = require('ntwitter'),
-    credentials = require('./credentials.json'),
-    twitter,
-    counts = {};
+var ntwitter = require("ntwitter"),
+    redis = require("redis"), // require the redis module
+    credentials = require("./credentials.json"),
+    redisClient,
+    counts = {},
+    twitter;
 
-// set up our twitter objects
 twitter = ntwitter(credentials);
 
-// initialize our counters
-counts.modi = 0;
+// create a client to connect to Redis
+client = redis.createClient();
 
-twitter.stream(
-    'statuses/filter',
-    { track: ["modi"] },
-    function(stream) {
-        stream.on('data', function(tweet) {
-            if (tweet.text.indexOf("modi") > -1) {
-                // increment the modi counter
-                counts.modi = counts.modi + 1;
-            }
-        });
+// initialize to zero
+
+client.get("awesome", function (err, awesomeCount) {
+    if (err !== null) {
+        //handle error
     }
-);
 
-setInterval(function () {
-    console.log("modi: " + counts.modi);
-}, 3000);
+    // initialize our counter to the integer version
+    // of the value stored in Redis, or 0 if it's not
+    // set
+    counts.awesome = parseInt(awesomeCount,10) || 0;
+
+
+    twitter.stream(
+        "statuses/filter",
+        { track: ["awesome", "cool", "rad", "gnarly", "groovy"] },
+        function(stream) {
+            stream.on("data", function(tweet) {
+                if (tweet.text.indexOf("awesome") >= -1) {
+                    // increment the key on the client
+                    client.incr("awesome");
+
+                    counts.awesome = counts.awesome + 1;
+                }
+            });
+        }
+    );
+});
 
 module.exports = counts;
+
